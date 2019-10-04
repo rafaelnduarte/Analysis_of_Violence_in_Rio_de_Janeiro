@@ -6,4 +6,4 @@ In spite of its breathtaking natural setting and exciting culture, Rio faces man
 
 In my latest project, I've analyzed the data available on crime in Rio, with the objective of better understanding the situation of the city.
 
-If you want to learn more about this astonishing city, make sure to check out my project on the link below:
+If you want to learn more about this astonishing city, make sure to check out my project and let me know what you think!
