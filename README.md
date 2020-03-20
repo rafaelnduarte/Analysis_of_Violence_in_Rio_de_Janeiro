@@ -15,5 +15,5 @@ In my latest project, I've analyzed the data available on crime in Rio, with the
 If you want to learn more about this astonishing city, make sure to check out my project and let me know what you think!
 
 <p align="center" >
-  <img src="/img/rafaelnd_ds.png" >
+  <img src="/img/rafaelnd_banner.png" width=70% >
 </p>
